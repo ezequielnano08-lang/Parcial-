@@ -146,13 +146,14 @@
         <label>Gears of War 4</label><br>
         <input type="checkbox" value="Gears 5">
         <label>Gears of War 5</label><br>
-    </form>
-
-    <h2>Dejá tu nombre</h2>
+<h2>Dejá tu nombre</h2>
 <section>
     <input type="text" placeholder="Ingresa tu nombre" required>
     <button type="submit">Enviar</button>
 </section>
+    
+    </form>
+
     <h2>Más información</h2>
 
     <p>
