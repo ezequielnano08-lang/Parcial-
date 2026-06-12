@@ -165,7 +165,7 @@
  Para saber más sobre Gears of War, ya sea sobre la historia, mecánicas, funciones o novedades de cada juego,
         puedes visitar sitios el sitio oficial , donde se encuentra información detallada sobre la saga.
         Allí también se incluyen fechas de lanzamiento, DLC, personajes y todo el contenido actualizado de los juegos.      
-<a href="https://www.gearsofwar.com/" target="_blank">
+<a href="https://www.gearsofwar.com/" target="_self">
             Sitio Oficial de Gears of War</a>
     </p>
 </footer>
