@@ -6,12 +6,12 @@
     <title>Saga Gears of War</title>
 </head>
 <style>
-    body{
-  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6eb28b62-156e-4844-a94c-70d830984e66/d1q8zan-4e520ff5-bbc2-4fef-93b1-4e031b387c00.jpg/v1/fit/w_800,h_800,q_70,strp/gears_of_war_vector_by_trebory6_d1q8zan-414w-2x.jpg");
+body{
+ background-image: url("https://external-preview.redd.it/i-fused-together-both-omen-wallpapers-for-gears-5-and-v0-7f7fS5vudDhbyngXL5DaZVHgSzTf_mMVwLwiG_A7Th0.jpg?width=1080&crop=smart&auto=webp&s=cade2f7169f9b79c42ae90aedbe2b391c313221a");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
-  margin: 0;
+  color:white
 }
 </style>
 <body>
