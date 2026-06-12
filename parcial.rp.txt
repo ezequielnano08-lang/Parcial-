@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saga Gears of War</title>
+</head>
+<style>
+    body{
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6eb28b62-156e-4844-a94c-70d830984e66/d1q8zan-4e520ff5-bbc2-4fef-93b1-4e031b387c00.jpg/v1/fit/w_800,h_800,q_70,strp/gears_of_war_vector_by_trebory6_d1q8zan-414w-2x.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+}
+</style>
+<body>
+
+    <h1>Saga Gears of War</h1>
+
+    <p>
+        Gears of War es una de las franquicias más populares de videojuegos de acción y disparos en tercera persona.
+        La saga sigue la lucha de la humanidad contra la Horda Locust y otras amenazas en el planeta Sera a través de varios juegos, cada uno con su propia historia y personajes memorables.
+    </p>
+
+    <ol>
+        <li>Gears of War</li>
+        <li>Gears of War 2</li>
+        <li>Gears of War 3</li>
+        <li>Gears of War 4</li>
+        <li>Gears of War 5</li>
+    </ol>
+
+    <section>
+        <h2>Gears of War</h2>
+
+        <img src="https://static.wikia.nocookie.net/gearsofwar/images/f/f5/Gears_of_War_Portada.png/revision/latest?cb=20160708053912&path-prefix=es"
+             alt="Gears of War"
+             width="300">
+ 
+        <p>
+            Lanzado en 2006, Gears of War presentó a Marcus Fenix y al Escuadrón Delta.
+            El juego revolucionó los shooters en tercera persona con su sistema de cobertura y su intensa acción.
+             <a href= https://gearsofwar.fandom.com/es/wiki/Gears_of_War target="_blank">Mas informacion sobre Gears of War </a>
+        </p>
+    </section>
+
+    <section>
+        <h2>Gears of War 2</h2>
+
+        <img src="https://static.wikia.nocookie.net/gearsofwar/images/8/87/Gears_of_War_2_Portada.png/revision/latest?cb=20160706021554&path-prefix=es"
+             alt="Gears of War 2"
+             width="300">
+
+        <p>
+            En esta secuela, la humanidad contraataca a la Horda Locust.
+            Incluye una campaña más grande y nuevos modos multijugador que expanden la experiencia de juego en línea y cooperativa.
+            <a href="https://gearsofwar.fandom.com/es/wiki/Gears_of_War_2" target="_blank">Más información sobre Gears of War 2</a>
+
+        </p>
+    </section>
+
+    <section>
+        <h2>Gears of War 3</h2>
+
+        <img src="https://static.wikia.nocookie.net/gearsofwar/images/8/8d/Gears_of_War_3_Portada.png/revision/latest?cb=20160708053351&path-prefix=es"
+             alt="Gears of War 3"
+             width="300">
+
+
+        <p>
+            Considerado por muchos el mejor juego de la saga.
+            Concluye la historia original de Marcus Fenix y la guerra contra los Locust con una campaña épica y un modo multijugador robusto.
+            <a href="https://gearsofwar.fandom.com/es/wiki/Gears_of_War_3" target="_blank" >Mas información sobre Gears of war 3</a>
+        </p>
+    </section>
+
+    <section>
+        <h2>Gears of War 4</h2>
+
+        <img src="https://www.neoteo.com/image_resizer/89800/w/1600/h/900/resize/hero_img.webp"
+             alt="Gears of War 4"
+             width="300">
+
+
+
+        <p>
+            Introduce una nueva generación de personajes liderada por JD Fenix,
+            hijo de Marcus Fenix. El juego expande el universo con nuevos enemigos y una historia fresca.
+            <a href="https://gearsofwar.fandom.com/es/wiki/Gears_of_War_4" target="_blank">Mas información sobre Gears of war 4 </a>
+        </p>
+    </section>
+
+    <section>
+        <h2>Gears of War 5</h2>
+
+        <img src="https://static.wikia.nocookie.net/gearsofwar/images/c/c1/Gears_5.png/revision/latest?cb=20221206153005&path-prefix=es"
+             alt="Gears 5"
+             width="300">
+
+
+
+        <p>
+            Gears 5 se centra en Kait Diaz y expande el universo de la saga
+            con una historia más profunda y nuevos entornos para explorar.
+            <a href="https://gearsofwar.fandom.com/es/wiki/Gears_5" target="_blank">Mas información sobre Gears of war 5</a>
+        </p>
+        
+    </section>
+
+    <h2>Tambien hay otros juegos de la franquicia como:</h2>
+
+    <ul>
+        <li>Gears of War Tactics</li>
+        <li>Gears of War Reloaded</li>
+        <li>Gears of War E-DAY</li>
+        <li>Gears of war Judgment</li>
+        <li>Gears of War Ultimate Edition</li>
+    </ul>
+
+    <h2>¿Qué juego de Gears of War te gustaría probar?</h2>
+
+    <form>
+        <input type="checkbox" value="Gears of War">
+        <label>Gears of War</label><br>
+        <input type="checkbox" value="Gears of War 2">
+        <label>Gears of War 2</label><br>
+        <input type="checkbox" value="Gears of War 3">
+        <label>Gears of War 3</label><br>
+        <input type="checkbox" value="Gears of War 4">
+        <label>Gears of War 4</label><br>
+        <input type="checkbox" value="Gears 5">
+        <label>Gears of War 5</label><br>
+    </form>
+
+    <h2>¿Qué juegos de Gears of War conoces?</h2>
+
+    <form>
+        <input type="checkbox" value="Gears of War">
+        <label>Gears of War</label><br>
+        <input type="checkbox" value="Gears of War 2">
+        <label>Gears of War 2</label><br>
+        <input type="checkbox" value="Gears of War 3">
+        <label>Gears of War 3</label><br>
+        <input type="checkbox" value="Gears of War 4">
+        <label>Gears of War 4</label><br>
+        <input type="checkbox" value="Gears 5">
+        <label>Gears of War 5</label><br>
+    </form>
+
+    <h2>Dejá tu nombre</h2>
+<section>
+    <input type="text" placeholder="Ingresa tu nombre" required>
+    <button type="submit">Enviar</button>
+</section>
+    <h2>Más información</h2>
+
+    <p>
+        <figure><img src="https://live.cdn.gearsofwar.com/gearsofwar/sites/3/2026/06/gears-eday-home-page-1024x576-6a14d78fe05aa-768x432-6a288cde6197b.jpg" alt="Gears of War" width="300"></figure>
+        <figcaption>Nueva informacion sobre el lanzamiento de Gears of war E-DAY para saber mas ir al sitio oficial de Gears of War,donde cuentan como surge la historia. El juego sigue a Marcus Fenix y Dom Santiago jóvenes, en las primeras horas del caos, cuando comienza la guerra que luego marcará toda la historia de la franquicia</figcaption>
+        
+    </p>
+<footer>
+    <p>
+ Para saber más sobre Gears of War, ya sea sobre la historia, mecánicas, funciones o novedades de cada juego,
+        puedes visitar sitios el sitio oficial , donde se encuentra información detallada sobre la saga.
+        Allí también se incluyen fechas de lanzamiento, DLC, personajes y todo el contenido actualizado de los juegos.      
+<a href="https://www.gearsofwar.com/" target="_blank">
+            Sitio Oficial de Gears of War</a>
+    </p>
+</footer>
+</body>
+</html>
